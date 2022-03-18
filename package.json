@@ -1,0 +1,26 @@
+{
+  "name": "test-library",
+  "version": "1.0.0",
+  "description": "test library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniovlx/test-library.git"
+  },
+  "keywords": [
+    "test",
+    "library"
+  ],
+  "author": "Antonio Vida <antoniovlx@gmail.com> (https://www.antoniovida.xyz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoniovlx/test-library/issues"
+  },
+  "homepage": "https://github.com/antoniovlx/test-library#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
